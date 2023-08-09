@@ -1,7 +1,7 @@
 # Census-Income-project
 This repository contains a comprehensive Exploratory Data Analysis (EDA) and predictive modeling project based on the Census Income dataset. 
 The main objective of this project is to gain insights from the Census Income data and create predictive models using classification machine learning algorithms.
-The primary algorithms explored include logistic regression, decision trees, random forests, and more.
+The primary algorithms explored include logistic regression, decision trees, random forests.
 
 Introduction
 The Census Income dataset is a valuable resource for understanding various factors that contribute to income levels.
